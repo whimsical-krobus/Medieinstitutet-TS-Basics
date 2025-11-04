@@ -9,3 +9,4 @@ myfirsttypescript();
 */
 
 const name = "Mumin";
+console.log(name);
