@@ -7,3 +7,5 @@ const myfirsttypescript = (): void => {
 
 myfirsttypescript();
 */
+
+const name = "Mumin";
