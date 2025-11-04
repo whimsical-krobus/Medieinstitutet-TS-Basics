@@ -1,9 +1,8 @@
 import './style.css'
 
-/*
+
 const myfirsttypescript = (): void => {
-  alert("Är du säker?");
+  alert("Are you sure?");
 };
 
 myfirsttypescript();
-*/
